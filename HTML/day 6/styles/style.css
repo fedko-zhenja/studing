@@ -1,0 +1,25 @@
+body {
+    background-color: olivedrab;
+    font-size: 22px;
+}
+
+
+a {
+    color: #006400;
+    text-decoration: none;
+}
+
+.content {
+    font-family: cursive;
+}
+
+.title {
+    font-family: cursive;
+}
+
+.green {
+background-color: #006400;
+}
+
+
+
