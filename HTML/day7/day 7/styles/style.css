@@ -13,6 +13,10 @@ a {
     font-family: cursive;
 }
 
+.title:hover {
+     color: limegreen;
+    
+}
 .title {
     font-family: cursive;
 }
@@ -21,5 +25,6 @@ a {
 background-color: #006400;
 }
 
-
-
+.input:hover {
+    color: rgb(205, 195, 50);
+}
